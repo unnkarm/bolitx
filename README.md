@@ -1,7 +1,13 @@
 🎬 Box Office Revenue Predictor
+
+
 An interactive ML-powered web app to predict movie revenue using XGBoost & Streamlit
+
+
+
 🚀 Overview
 This project is a Machine Learning-based web application that predicts domestic box office revenue using movie features such as MPAA rating, opening theaters, release days, distributor, and genre.
+
 
 Built with:
 
@@ -16,6 +22,7 @@ Built with:
 🤖 Model Training Panel
 
 🎯 Real-time Revenue Predictions
+
 
 ⭐ Features
 🔍 1. Data Analysis (EDA)
